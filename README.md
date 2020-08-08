@@ -9,6 +9,7 @@
   - React
   - Ant Design
   - ejs
+  - mysql
   - nodejs
     - koa + sequelize
   - go
