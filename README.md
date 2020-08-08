@@ -9,8 +9,14 @@
   - React
   - Ant Design
   - ejs
+  - nodejs
+    - koa + sequelize
+  - go
+    - gin + gorm
+  - python3
+    - flask + SQLAlchemy
 
-#### 猜话小语（私有项目）
+#### 猜话小语
 
 - 一个带翻译功能的，语言识别的微信小程序
 - 技术栈
