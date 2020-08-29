@@ -66,6 +66,12 @@
   - fastapi
   - tortoise
 
+#### [vscode-translate](https://github.com/fishjar/vscode-translate)
+
+- 一个满足自用的vscode编辑器翻译插件
+- 技术栈
+  - nodejs
+
 #### [mihuan-translate](https://github.com/fishjar/mihuan-translate)
 
 - 一个给自己用的浏览器翻译扩展
