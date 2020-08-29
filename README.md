@@ -68,7 +68,7 @@
 
 #### [vscode-translate](https://github.com/fishjar/vscode-translate)
 
-- 一个满足自用的vscode编辑器翻译插件
+- 一个满足自用的 `vscode` 编辑器翻译插件
 - 技术栈
   - nodejs
 
